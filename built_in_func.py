@@ -1,0 +1,6 @@
+# highest = max(54,96,25,64,123,75,48,55)
+highest = max([54,96,25,64,123,75,48,55])
+smallest = min([54,96,25,64,123,75,48,55])
+total = sum([54,96,25,64,123,75,48,55])
+count = len([54,96,25,64,123,75,48,55])
+print(f'Heghest: {highest}. Smallest: {smallest}. Total: {total}. Length: {count}')
